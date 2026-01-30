@@ -1,0 +1,7 @@
+{
+  "name": "EduMind RAG Tutor",
+  "description": "An AI-powered learning assistant that answers questions and explains topics strictly based on uploaded PDF study materials using Retrieval-Augmented Generation.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
